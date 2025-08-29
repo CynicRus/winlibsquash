@@ -8,7 +8,6 @@ A lightweight C library for reading and unpacking SquashFS v4.0 filesystem image
 
 - **Read-only SquashFS v4.x support**: Parse and read SquashFS filesystem images
 - **Multiple compression formats**: GZIP, LZMA, LZO, XZ, LZ4, ZSTD
-- **Cross-platform**: Works on Windows, Linux, and other POSIX systems
 - **File extraction**: Extract individual files or entire directories
 - **Directory traversal**: List and navigate directory contents
 - **Fragment support**: Handle fragmented files for optimal storage
